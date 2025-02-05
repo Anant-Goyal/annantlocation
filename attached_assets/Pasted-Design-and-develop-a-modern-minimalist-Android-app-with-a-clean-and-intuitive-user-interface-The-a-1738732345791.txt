@@ -1,0 +1,20 @@
+Design and develop a modern, minimalist Android app with a clean and intuitive user interface. The app should allow users to automate the creation of a customized message with just one click. When the 'Generate Message' button is tapped, the app should automatically generate a message containing the user's live location, name, and the current time. Additionally, the generated message should be copied to the clipboard, allowing the user to manually paste and send it to a WhatsApp group. Focus on simplicity and ease of use while maintaining a sleek, modern design aesthetic."
+
+Key Features to Include:
+
+One-Click Functionality : A single button labeled "Generate Message" that triggers the entire process.
+Live Location Integration : Automatically fetch the user's current GPS location.
+Personalized Message : Include the user's name (which can be set in the app settings) and the current timestamp in the message.
+Clipboard Integration : Once generated, the message should be copied to the device's clipboard for easy pasting.
+Modern & Minimalist UI :
+Use a clean, uncluttered layout with plenty of white space.
+Implement a simple color scheme (e.g., neutral tones with one accent color for buttons).
+Ensure the app is visually appealing yet functional, with smooth animations for button presses.
+Manual Sending to WhatsApp : After generating the message, the user should manually open WhatsApp and paste the message into a group chat.
+UI/UX Suggestions:
+
+Home Screen : A centered "Generate Message" button with a subtle animation when pressed. Below the button, display a small status text like "Message copied to clipboard!" after generation.
+Settings Page : Allow users to input their name and choose whether to include the location or not.
+Typography : Use modern, sans-serif fonts for a clean look.
+Icons : Minimalistic icons for settings and other navigational elements.
+Responsiveness : Ensure the app looks good on both small and large screens, adapting to different Android devices seamlessly.
